@@ -1,0 +1,10 @@
+# include <stdio.h>
+
+// First pull request
+int main  {
+  char name[] = "Winston Hudson";
+  
+  printf("My name is %s", c);
+  
+  return 0;
+ }
